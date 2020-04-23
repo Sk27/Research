@@ -43,4 +43,4 @@ to anything, nothing much happens. (Actually the chemical reactions still
 take place, but very slowly.) The reactions take place only if an electrical
 circuit is present to take electrons away from the negative side and supply
 electrons to the positive side. The electrons travel around this circuit in a
-counterclockwise direction: 
+counterclockwise direction
