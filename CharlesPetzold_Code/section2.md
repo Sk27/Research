@@ -36,3 +36,11 @@ new molecules.
 between them generate spare electrons on the side of the battery marked with
 a minus sign (called the negative terminal, or anode) and demand extra electrons on the other side of the battery (the positive terminal, or cathode). In
 this way, chemical energy is converted to electrical energy
+- The chemical reaction can't proceed unless there's some way that the
+extra electrons can be taken away from the negative terminal of the battery
+and delivered back to the positive terminal. So if the battery isn't connected
+to anything, nothing much happens. (Actually the chemical reactions still
+take place, but very slowly.) The reactions take place only if an electrical
+circuit is present to take electrons away from the negative side and supply
+electrons to the positive side. The electrons travel around this circuit in a
+counterclockwise direction: 
