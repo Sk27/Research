@@ -63,3 +63,17 @@ called the electron theory, which says that electricity derives from the movemen
 - What docs it mean when a battery has 1 .5 volts?
 - Actually, voltage-named after Count Alessandro Volta ( 1 745-1 827), who invented the first battery in 1 800-is one of the
   more difficult concepts of elementary electricity. Voltage refers to a potential for doing work. Voltage exists whether or not something is hooked up to a battery
+  - In electricity, you can calculate how much current is flowing through a
+    circuit if you know the voltage and the resistance. Resistance is measured in ohms, named after Georg Simon Ohm (1789-1854), who also propsed the famous Ohm's Law. The law
+    states I = E / R,
+    where I is traditionally used to represent current in amperes, E is used to represent voltage (electromotic force) and R is resistance
+- Here's the trick: Once you have established a common part of the circuit,
+  you don't have to use wire for it. You can replace the wire with something
+  else. And what you can replace it with is a giant sphere approximately 7900
+  miles in diameter made up of metal, rock, water, and organic material, most
+  of which is dead. The giant sphere is known to us as Earth.
+  - The thickness of wire is measured in American Wire Gauge, or AWG. The
+    smaller the AWG number, the thicker the wire and also the less resistance it
+    has. The 20-gauge speaker wire you bought has a diameter of about 0.032
+    inches and a resistance of about 10 ohms per 1 000 feet, or 1 ohm for the
+    1 00-foot round-trip distance between the bedrooms.
