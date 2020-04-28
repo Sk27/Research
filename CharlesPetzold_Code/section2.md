@@ -1,5 +1,5 @@
-**The prevailing scientific wisdom regarding the workings of electricity is
-called the electron theory, which says that electricity derives from the movement of electrons.**
+The prevailing scientific wisdom regarding the workings of electricity is
+called the electron theory, which says that electricity derives from the movement of electrons.\*\*
 
 - all matter-the stuff that we can see and feel (usually)-is
   made up of extremely small things called atoms. Every atom is composed of three types of particles.
@@ -72,8 +72,7 @@ called the electron theory, which says that electricity derives from the movemen
   else. And what you can replace it with is a giant sphere approximately 7900
   miles in diameter made up of metal, rock, water, and organic material, most
   of which is dead. The giant sphere is known to us as Earth.
-  - The thickness of wire is measured in American Wire Gauge, or AWG. The
-    smaller the AWG number, the thicker the wire and also the less resistance it
-    has. The 20-gauge speaker wire you bought has a diameter of about 0.032
-    inches and a resistance of about 10 ohms per 1 000 feet, or 1 ohm for the
-    1 00-foot round-trip distance between the bedrooms.
+- The thickness of wire is measured in American Wire Gauge, or AWG. The smaller the AWG number, the thicker the wire and also the less resistance it
+  has. The 20-gauge speaker wire you bought has a diameter of about 0.032
+  inches and a resistance of about 10 ohms per 1 000 feet, or 1 ohm for the
+  100-foot round-trip distance between the bedrooms.
