@@ -34,3 +34,7 @@ power an electromagnet that pulls down a metal lever. The lever, however,
 is used as part of a switch connecting a battery to an outgoing wire. In this
 way, a weak incoming current is "amplified" to make a stronger outgoing
 current.
+- The relay is a remarkable device. It's a switch, surely, but a switch that's
+turned on and off not by human hands but by a current. You could do
+amazing things with such devices. You could actually assemble much of a
+computer with them.
