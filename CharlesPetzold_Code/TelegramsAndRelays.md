@@ -17,3 +17,13 @@ then attracts other pieces of iron and steel. (There's enough thin wire in the
 electromagnet to create a resistance great enough to prevent the electromagnet
 from constituting a short circuit.) Remove the current, and the iron
 bar loses its magnetism:
+- The electromagnet is the foundation of the telegraph. Turning the switch on
+and off at one end causes the electromagnet to do something at the other end.
+Morse's first telegraphs were actually more complex than the ones that
+later evolved.
+- Although Samuel Morse notified the patent office in 1 836 that he had
+invented a successful telegraph, it wasn't until 1 843 that he was able to
+persuade Congress to fund a public demonstration of the device. The historic
+day was May 24, 1 844, when a telegraph line rigged between Washington,
+D.C., and Baltimore, Maryland, successfully carried the biblical
+message: "What hath God wrought! "
