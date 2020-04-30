@@ -10,4 +10,10 @@ known these days for his invention of the telegraph and the code that bears
 his name.
 - The idea of the telegraph (literally meaning " far writing") was certainly
 in the air in the early 1 800s, and other inventors had taken a stab at it before
-Samuel Morse began experimenting in 1 832
+Samuel Morse began experimenting in 1832
+- If you take an iron bar, wrap it with a couple hundred turns of thin wire,
+and then run a current through the wire, the iron bar becomes a magnet. It
+then attracts other pieces of iron and steel. (There's enough thin wire in the
+electromagnet to create a resistance great enough to prevent the electromagnet
+from constituting a short circuit.) Remove the current, and the iron
+bar loses its magnetism:
