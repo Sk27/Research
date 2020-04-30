@@ -27,3 +27,10 @@ persuade Congress to fund a public demonstration of the device. The historic
 day was May 24, 1 844, when a telegraph line rigged between Washington,
 D.C., and Baltimore, Maryland, successfully carried the biblical
 message: "What hath God wrought! "
+- It's an interesting fantasy, but in reality Samuel Morse had understood the
+concept of this device early on. The device we've invented is called a repeater,
+or a relay. A relay is like a sounder in that an incoming current is used to
+power an electromagnet that pulls down a metal lever. The lever, however,
+is used as part of a switch connecting a battery to an outgoing wire. In this
+way, a weak incoming current is "amplified" to make a stronger outgoing
+current.
