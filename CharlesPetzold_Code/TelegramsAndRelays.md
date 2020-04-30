@@ -8,3 +8,6 @@ of 35.
 - But these are just footnotes to an eclectic career. Samuel F. B. Morse is best
 known these days for his invention of the telegraph and the code that bears
 his name.
+- The idea of the telegraph (literally meaning " far writing") was certainly
+in the air in the early 1 800s, and other inventors had taken a stab at it before
+Samuel Morse began experimenting in 1 832
